@@ -29,7 +29,7 @@ int main()
     printf("Sua media ponderada final %f", resultado);
 
     if (resultado < 6)
-        printf("\n Você foi Aprovado");
+        printf("\n Você foi  Reprovado ");
     else
-        printf("\n Você foi Reprovado");
+        printf("\n Você foi Aprovado");
 }
